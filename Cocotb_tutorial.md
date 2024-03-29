@@ -62,7 +62,7 @@ make
 - Chạy file `setup.py` tại /cocotb
 ```
 sudo ./setup.py build
-sudo ./setup.oy install
+sudo ./setup.py install
 ```
 >Nếu báo `/usr/bin/env: python: No such file or directory`, thử chạy: `whereis python` rồi tạo liên kết đến đó `sudo ln -s/urs/bin/python/usr/bin/python`.
 Sau đó chạy lại file `setup.py` tại cocotb. nếu không được hãy thử `sudo apt install python-is-python3`
