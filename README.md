@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Hướng dẫn cài Cocotb và chạy ví dụ
-> Hướng dẫn được thực hiện Ubuntu 
+> Hướng dẫn được thực hiện trên Ubuntu 
 ## Bước 1: Các yêu cầu cần có trước khi cài Cocotb
 ### Python 3.6+
 > Check version Python
