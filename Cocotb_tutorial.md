@@ -63,9 +63,9 @@ git checkout stable        # Sử dụng bản ổn định gần nhất
 ```
 - Configure and install
 ```
-autoconf         # Create ./configure script
-./configure      # Configure and create Makefile
-make -j `nproc`  # Build Verilator itself (if error, try just 'make')
+autoconf                   # Create ./configure script
+./configure                # Configure and create Makefile
+make -j `nproc`            # Build Verilator itself (if error, try just 'make')
 sudo make install
 ```
 
